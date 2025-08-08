@@ -24,23 +24,6 @@ I’m a Data Scientist with expertise in building scalable **ML/AI solutions** a
 **Cloud:** AWS SageMaker, GCP Vertex AI, Azure ML  
 **Tools:** Jupyter, VS Code, GitHub Copilot, Docker, Kubernetes, Streamlit, Flask, FastAPI  
 
----
-
-## 📂 Featured Projects  
-### 🧬 **EEG-Based Depression Treatment Prediction**  
-- Built CNN + EEG-based connectivity models for SSRI treatment response in MDD patients.  
-- Achieved **99% accuracy** with Functional Connectivity Measures + Lightweight CNN.  
-- Published peer-reviewed research on personalized medicine and explainable AI.  
-
-### 📉 **Customer Churn Prediction**  
-- Developed classification models achieving **90%+ ROC-AUC**.  
-- Handled **class imbalance with SMOTE** and deployed a **real-time Streamlit dashboard**.  
-
-### 🤖 **AI-Powered Job Matching System**  
-- Built NLP-based resume parser & job matching system with **spaCy, BERT, and FAISS**.  
-- Automated skill-job fit analysis, reducing manual screening by **60%**.  
-
----
 
 ## 📫 Connect With Me  
 - **LinkedIn:** [linkedin.com/in/venkata-rama-krishna-nallabelli](https://linkedin.com/in/venkata-rama-krishna-nallabelli)  
