@@ -65,7 +65,7 @@ Continuously exploring:
 ## 📫 Let's Connect!
 
 - **GitHub:** [@kris-vn0454](https://github.com/kris-vn0454)
-- **Email:** Open to collaborations and interesting projects!
+- **Email:** venkataramakrishnanallabelli@gmail.com
 
 ---
 
